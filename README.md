@@ -6,7 +6,7 @@ I am a Full-Stack Django Web Developer.
 - 🌱 I’m currently learning advanced level Django and Python
 - 📫 How to reach me: contact@yusufbilgin.de
 - 💻 Personal website: [yusufbilgin.de](https://yusufbilgin.de "yusufbilgin.de")
-
+- 📝 My Github Pages Website: [yusufbilgin.github.io](https://yusufbilgin.github.io/ "yusufbilgin.github.io")
 
 ### 🛠 &nbsp;Tech Stack 
 
