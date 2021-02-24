@@ -1,5 +1,4 @@
 <h2>Hi there 👋, I'm Yusuf</h2>
-<hr>
 
 I am a Full-Stack Django Web Developer.
 
